@@ -1,2 +1,2 @@
 # UniWebsite
-The content of [http://home.in.tum.de/~mortimer/](my university web site).
+The content of [my university web site](http://home.in.tum.de/~mortimer/).
